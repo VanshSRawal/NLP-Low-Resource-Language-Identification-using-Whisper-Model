@@ -68,7 +68,6 @@ Audio Clip → (Auto Preprocess: decode, 16 kHz mono, VAD)
 - Whisper: https://github.com/openai/whisper  
 - Book: Jurafsky & Martin, *Speech and Language Processing (3rd Ed)*  
 
-
 ---
 
 ## 🗺️ Future Scope
