@@ -68,21 +68,6 @@ Audio Clip → (Auto Preprocess: decode, 16 kHz mono, VAD)
 - Whisper: https://github.com/openai/whisper  
 - Book: Jurafsky & Martin, *Speech and Language Processing (3rd Ed)*  
 
----
-
-## 👥 Team
-Group Mini-Project — NLP Course  
-Members (add your names and roll numbers)  
-Batch: 2025  
-
----
-
-## 🧩 Learnings
-- Understood how pre-trained deep learning models can be reused for language identification.  
-- Learned about Whisper’s Transformer architecture and zero-shot multilingual capability.  
-- Explored dataset handling, preprocessing, and evaluation in Colab.  
-- Gained hands-on experience visualizing predictions and managing reproducible notebooks.  
-- Learned trade-offs between model size, inference speed, and accuracy in real-world applications.
 
 ---
 
